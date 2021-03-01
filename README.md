@@ -20,6 +20,7 @@ Para instalar é muito simples:
   - Caso não tenha aparecido ainda, ou se o whatsapp já estava aberto no navegador: RECARREGUE A PAGINA
 
 ![BOTÃO](./public/botao.png)
+
 Pronto, se tudo estiver certo, já é pra aparecer o botão junto do botão opções.
 
 Para usar é só clicar no botão e pronto! seus audios estarão acelerados.
