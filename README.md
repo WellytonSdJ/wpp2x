@@ -9,7 +9,9 @@ Pra quando voce recebe aquele áudio interminalvel de 10 minutos e quer ouvi-lo 
 
 Para instalar é muito simples:
 
-- baixe os arquivos dando um git-clone
+- baixe os arquivos
+  - voce pode clicar em 'CODE' e ele dará a opção para baixar os arquivos em .zip
+- descompacte o arquivo.
 - abra o chrome
 - entre em extensões
   - **NÃO ESQUEÇA DE HABILITAR O MODO DESENVOLVEDOR;**
