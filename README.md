@@ -1,11 +1,11 @@
 ![icone](./public/icon.png)
 
-# Whastapp 2X
+# Whastapp 2X
 
 A ideia é um simples acelerador de áudios para navegadores.
 Pra quando voce recebe aquele áudio interminável de 10 minutos e quer ouvi-lo logo.
 
-## Instalação
+## Instalação
 
 Para instalar é muito simples:
 
